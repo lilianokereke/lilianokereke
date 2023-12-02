@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**lilianokereke/lilianokereke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hi i'm lilian
+- 🌱 I'm a data professional (analyst)
+- 👯 I’m looking for internships and data roles
+- 🌱 I’m currently learning tableau and python
+- 🤔 I’m looking for help with networking with other data enthusiast
+- 💞️ In my free time, I learn french, watch movies.
+- 💬 Ask me about data analysis, cleanig data, EDA, data visualization and more
+- 📫 How to reach me: 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I tend to find the easiest way to do things and to learn things in the most basic way
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on developing my python skills
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
